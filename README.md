@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## `install node.js with npm`
+## `npm install express dotenv redux axios `
 ## Available Scripts
 
 In the project directory, you can run:
